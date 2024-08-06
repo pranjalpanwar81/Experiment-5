@@ -18,8 +18,8 @@ It is used for doing mathematical calculations among some given values.
 
 ### 1.
 ```
-//Shivendra Dwivedi
-//23070123122
+//Pranjal Panwar
+//23070123164
 #include <iostream>
 using namespace std;
 int main() 
@@ -39,8 +39,8 @@ int main()
 
 ### 2.
 ```
-//Shivendra Dwivedi
-//23070123122
+//Pranjal Panwar
+//23070123164
 //experiment 5
 #include <iostream>
 using namespace std;
@@ -68,8 +68,8 @@ int main()
 
 ### 3.
 ```
-//Shivendra Dwivedi
-//23070123122
+//Pranjal Panwar
+//23070123164
 //experiment 5
 #include<iostream>
 using namespace std;
@@ -110,8 +110,8 @@ int main() {
 
 ### 4.
 ```
-//Shivendra Dwivedi
-//23070123122
+//Pranjal Panwar
+//23070123164
 //experiment 5
 #include<iostream>
 using namespace std;
