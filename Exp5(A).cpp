@@ -1,5 +1,5 @@
-//Shivendra Dwivedi
-//23070123122
+//Pranjal Panwar
+//23070123164
 #include <iostream>
 using namespace std;
 int main() 
